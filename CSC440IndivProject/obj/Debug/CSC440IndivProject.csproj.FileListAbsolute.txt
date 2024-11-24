@@ -1,0 +1,11 @@
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.csproj.AssemblyReference.cache
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.Form1.resources
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.Properties.Resources.resources
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.csproj.GenerateResource.cache
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.csproj.CoreCompileInputs.cache
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\bin\Debug\CSC440IndivProject.exe.config
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\bin\Debug\CSC440IndivProject.exe
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\bin\Debug\CSC440IndivProject.pdb
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.exe
+C:\Users\kywai\source\repos\CSC440IndivProject\CSC440-Individual-Project\CSC440IndivProject\obj\Debug\CSC440IndivProject.pdb
